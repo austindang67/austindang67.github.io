@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Javascript Reflection"
+title: "Javascript: Foreign but Familiar"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
 labels:
   - Engineering
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 *A recollection of my pleasant experience thus far with Javascript.*
 
