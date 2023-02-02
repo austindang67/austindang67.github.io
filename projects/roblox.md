@@ -8,7 +8,7 @@ published: true
 labels:
   - Lua
   - Roblox Studio
-summary: "A unique social FPS game developed in Roblox Studio"
+summary: "An FPS game with a unique twist developed in Roblox Studio"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
