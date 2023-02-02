@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Minecraft"
+date: 2020
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Minecraft
+  - Architecture
+summary: "A 1:1 scale replica of my High School that I created during the 2020 Covid Lockdown"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
