@@ -8,7 +8,7 @@ published: true
 labels:
   - Minecraft
   - Architecture
-summary: "A 1:1 scale replica of my High School that I created during the 2020 Covid Lockdown"
+summary: "A 1:1 scale recreation of my old high school built in Minecraft"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
