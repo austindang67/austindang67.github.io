@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
+    { "name": "Software Development" },
     { "name": "Web Development" },
     { "name": "Game Development" },
-    { "name": "Scripting" },
 
   ],
   "skills": [
