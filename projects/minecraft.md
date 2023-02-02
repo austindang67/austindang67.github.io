@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Roosevelt High School Rebuilt in Minecraft"
+title: "Roosevelt High School Rebuilt: Minecraft as Lockdown Therapy"
 date: 2020
 published: true
 labels:
