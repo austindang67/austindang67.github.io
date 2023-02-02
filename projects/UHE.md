@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "UH E-Sports Website"
+title: "UHE Website"
 date: 2023
 published: true
 labels:
