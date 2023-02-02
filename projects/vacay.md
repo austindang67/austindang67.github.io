@@ -2,15 +2,13 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
+title: "Untitled Roblox FPS Game"
 date: 2015
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Lua
+  - Roblox Studio
+summary: "A unique social FPS game developed in Roblox Studio"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
