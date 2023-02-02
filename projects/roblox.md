@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/roblox/robloxstudioicon.png
 title: "Untitled Roblox FPS Game"
 date: 2023
 published: true
