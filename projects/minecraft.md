@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Roosevelt High School rebuilt in Minecraft"
+title: "Roosevelt High School Rebuilt in Minecraft"
 date: 2020
 published: true
 labels:
   - Minecraft
   - Architecture
-summary: "A 1:1 scale recreation of my old high school built in Minecraft"
+summary: "A reconstruction of my old high school that I built in Minecraft using satellite imagery"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
