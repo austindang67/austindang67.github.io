@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhe/UH_LOGO.PNG
+image: img/uhe/UH_LOGO.png
 title: "UHE Website"
 date: 2023
 published: true
