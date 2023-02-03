@@ -8,7 +8,7 @@ published: true
 labels:
   - Minecraft
   - Architecture
-summary: "A reconstruction of my old high school built in Minecraft using satellite imagery and some simple math"
+summary: "A reconstruction of my old high school built in Minecraft using satellite imagery and some simple math."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
