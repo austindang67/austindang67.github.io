@@ -11,49 +11,12 @@ labels:
 summary: "My volunteer efforts toward conserving the forest atop Tantalus Mountain."
 ---
 
-<img class="img-fluid" src="../img/tantalus/Conservation.png">
+<img class="img-fluid" src="../img/tantalus/Conservation.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+In 2019 I volunteered to help in the conservation of the forest atop Tantalus Mountain as a part of my Travel Industry Management program requirements.
 
-To give you a flavor of the game, here is an excerpt from one run:
+It was a deeply humbling experience to be so exposed to the environment in a way on a scale I had never felt before. Surrounding me was several miles of just forest and lush greenery, and the goal was to protect it all.
 
-<hr>
+I was tasked with uprooting invasive plants and clearing out area so that the rest of my group which consisted of around 10 people could traverse. It was physically demanding and the most exhausting volunteer work I had ever done.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+But it was deeply rewarding to know that I was even a small part of an effort so large. I learned from it a greater appreciation of our island.
