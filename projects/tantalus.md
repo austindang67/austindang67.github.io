@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Roosevelt High School Rebuilt in Minecraft"
-date: 2020
+title: "Tantalus Conservation Effort"
+date: 2019
 published: true
 labels:
-  - Minecraft
-  - Architecture
-summary: "A reconstruction of my old high school built in Minecraft using satellite imagery and math."
+  - Conservation
+  - Community Service
+summary: "My volunteer efforts toward conserving the forest atop Tantalus Mountain."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
