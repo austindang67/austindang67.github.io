@@ -22,4 +22,4 @@ that allows me to think creatively and draw myself towards simple solutions with
 ## Why does it interest me at all?
 
 Programming is science, but there is also beauty which makes it art. Software Engineering allows me to focus my creativity while fulfilling my desire to solve problems. Although there is a syntax and defined rules for how programs can be written, there is freedom in the approach to solving 
-the problems that these programs are made for. Programming is an art in the way that Software Engineers think creatively to not only provide solutions, but also craft the machines that carry them. That is why programming, and thus Software Engineering, fascinates me.
+the problems that these programs are made for. Programming is an art in the way that Software Engineers think creatively to not only provide solutions, but also craft the machines that carry them. That is why Software Engineering fascinates me.
