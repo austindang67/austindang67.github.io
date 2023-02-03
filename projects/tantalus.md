@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/tantalus/environment.png
 title: "Tantalus Conservation Effort"
 date: 2019
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "My volunteer efforts toward conserving the forest atop Tantalus Mountain."
 ---
 
-<img class="img-fluid" src="../img/tantalus/environment.png">
+<img class="img-fluid" src="../img/tantalus/Conservation.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
