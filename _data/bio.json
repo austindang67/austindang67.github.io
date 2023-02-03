@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "austindang67", "url": "http://github.com/austindang67" },
-      { "network": "linkedin", "username": "Austin Dang", "url": "http://linkedin.com/in/austin-dang" }
+      { "network": "linkedin", "username": "austin-dang", "url": "http://linkedin.com/in/austin-dang" }
     ]
   },
   "interests": [
@@ -22,19 +22,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-05",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,15 +42,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Linh's Alterations",
+      "position": "Assistant Accountant and Communications",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2017-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Simple accounting and communications",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official Linh's Alterations website",
+        "Issue invoices to business partners, calculate payroll, and maintain online presence"
       ]
     },
     {
