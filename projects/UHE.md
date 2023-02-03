@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/uhe/UH_LOGO.PNG
 title: "UHE Website"
 date: 2023
 published: true
