@@ -11,15 +11,12 @@ labels:
 summary: "An FPS game with a unique twist developed in Roblox Studio."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/roblox/quakelive.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I am working on a small FPS game that is to be developed in Roblox Studio. The game will take visual inspiration from late 90s and early 2000s first person shooter games, such as Quake as shown above.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
+The game will be unique in that its gameplay is pvp based, but there will only be two players in any given match. It will be heavily strategic and self-focused
+due to this design choice, an aspect that has been lost in modern shooter titles which typically are comprised by large amounts of players in matches.
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
