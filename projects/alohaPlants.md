@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/uhe/UH_LOGO.png
+image: img/alohaPlants/Flowers-2.png
 title: "Aloha Plants"
 date: 2023
 published: true
