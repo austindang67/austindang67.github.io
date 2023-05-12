@@ -14,6 +14,8 @@ labels:
 summary: "A forum and vast database of plants found in Hawaii to be used by botanists, gardeners, and farmers"
 ---
 
+<img class="img-fluid" src="../img/alohaPlants/landing.png">
+
 I will soon be working onboard the UHE (UH E-Sports) website development team. As a member of UH E-Sports myself, and a player on the Apex Legends Varsity team, it is a privilege to be able to apply and hone my web development skills for a school program that I'm passionate about.
 
 The website will be a hub for members of the organization in addition to being a warm welcome for anyone interested in the E-Sports program at UH Manoa.
