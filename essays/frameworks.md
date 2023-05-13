@@ -10,6 +10,7 @@ labels:
 ---
 
 Bootstrap 5 is my first framework and has proven itself to be another saver of time and energy. In two major ways the framework has eased my web development process.
+<img width="200px" class="rounded float-start pe-4" src="../img/bootstrap5.png">
 
 ## Making stylization quick
 
