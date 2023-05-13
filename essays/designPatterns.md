@@ -9,8 +9,6 @@ labels:
   - Design
 ---
 
-## Beauty in patterns
-
 <img width="200px" class="rounded float-start pe-4" src="../img/designPatterns/milkyway.jpg">
 
 The natural world creates an inclination towards patterns. There are patterns in all aspects of our reality. There are patterns in evolution, traits that are favorable occurring 
