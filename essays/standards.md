@@ -11,6 +11,8 @@ labels:
 
 ## What does it really mean to "learn" a programming language?
 
+<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
+
 Learning a programming language is more than just memorizing libraries, functions, and capabilities; in fact, some may say the knowledge of such aspects is unnecessary entirely.
 It is a tired joke to hear that a Software Engineer will spend just as much time looking something up as they do programming with that specific something; but perhaps
 it is more indicative of how universal this aspect is within our profession than it is of how infamously humorless computer scientists can be. 
