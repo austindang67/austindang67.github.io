@@ -32,3 +32,4 @@ Additionally, I worked on style and appearance for multiple pages on the website
 
 I also created our Aloha Plants logo, inspired by the shape of the Hawaiian Islands and the iconography of flora. I utilized both of these ideas to create our logo.
 
+<img width="200px" class="img-fluid" src="../img/alohaPlants/Flowers-2.png">
