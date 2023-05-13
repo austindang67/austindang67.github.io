@@ -18,7 +18,7 @@ These two concepts are principles of programming that can be applied to all form
 
 Coding standards are one of the first barriers to learning a new language and thus are completely applicable to different types of projects that may involve many languages and development tools. Coding standards refers to the established principles of writing code, particularly regarding syntax and formatting. They work to standardize code in a way that works best and reduces the amount of problems along the way. In our Software Engineering course, ESLint, a code analysis tool, was used to identify problematic patterns in code and help to maintain a functioning standard. Correct syntax always comes first as dictated by the machine. Code will not run if written in a way that a machine cannot understand, thus it is the first step to solid code. Coding standards are there to make sure that the house we are building doesn't fall apart when we decide that we want a window. They are important and different for every project, and thus it is one of the most valuable concepts that I've learned in Software Engineering.
 
-## Thinking in Patterns
+## Thinking in patterns
 
 Design patterns are another fundamental concept of programming that goes beyond web application development. Design patterns are repeatable solutions to familiar problems. They are tried and true approaches to commonly appearing problems in programming and it is unbelievably valuable to software developers to be familiar with them. Whether it be web application development, game development, UI design, there are established ways in all of these fields that work best when approaching a problem. Thus, it is a concept that sticks out in my Software Engineering journey.
 
