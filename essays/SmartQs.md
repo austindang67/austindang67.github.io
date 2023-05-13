@@ -9,6 +9,8 @@ labels:
   - Technical
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/stackoverflow.jpg">
+
 The ability to ask smart questions is vastly under-appreciated. It is even more so in our line of work where often you are no more than a username in a forum of many. Being able to ask smart questions is of utmost importance for software engineers because of the precise nature of our work. 
 
 Any computer scientist will tell you that ambiguity is one of the most frustrating aspects of programming. Being told to create a program with ambiguous instructions, facing an error with ambiguous origins, or worse, trying to understand an ambiguous question on Stack Overflow, are universally painful experiences for programmers; thus, we all do our best to avoid them. 
