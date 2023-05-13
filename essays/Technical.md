@@ -13,6 +13,8 @@ labels:
 
 ## Just Like Home
 
+<img width="300px" class="rounded float-start pe-4" src="../img/javascript.png">
+
 My experience with Javascript has been mostly positive. Since Javascript is so object-oriented, learning it has been familiar to me due to my experience with C, C++, and Java. Although the syntax is different here and there being a lack of strong typing, I have found that the freecodecamp exercises have been very helpful in getting me comfortable with the ins and outs of the language relative to Java. With the help of WODs and the new but interesting concepts in ES6, learning java script has been a gratifying process.
 
 ## Learning Through Competition 
