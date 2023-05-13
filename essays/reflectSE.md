@@ -23,6 +23,7 @@ Coding standards are one of the first barriers to learning a new language and th
 ## Thinking in patterns
 
 
+<img width="200px" class="rounded float-start pe-4" src="../img/patterns.png">
 
 Design patterns are another fundamental concept of programming that goes beyond web application development. Design patterns are repeatable solutions to familiar problems. They are tried and true approaches to commonly appearing problems in programming and it is unbelievably valuable to software developers to be familiar with them. Whether it be web application development, game development, UI design, there are established ways in all of these fields that work best when approaching a problem. Thus, it is a concept that sticks out in my Software Engineering journey.
 
