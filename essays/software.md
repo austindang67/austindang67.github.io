@@ -10,7 +10,7 @@ labels:
 ---
 
 
-## No Better Time Than Now
+## No better time than now
 <img width="300px" class="rounded float-start pe-4" src="../img/software.jpg">
 Oftentimes we will make the future somehow more terrifying than the present. For myself, what I am scared of is missing out on what is happening in the now.
 The title of Software Engineer is something that I want to be able to call myself without a doubt in my mind. Currently, I believe that I'm making as great of an effort
