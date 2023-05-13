@@ -28,6 +28,8 @@ Design patterns are another fundamental concept of programming that goes beyond 
 
 ##  What next?
 
+<img width="200px" class="img-fluid" src="../img/mario.jpg">
+
 With these concepts under my belt, the future for me lies in game development. I plan to master the coding standards of the engines I will be using, and master the countless design patterns of successful video games.
 
 
