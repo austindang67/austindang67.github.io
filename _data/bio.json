@@ -1,0 +1,70 @@
+{
+  "basics": {
+    "name": "Austin Dang",
+    "label": "Student",
+    "picture": "https://github.com/austindang67.png",
+    "email": "austindang67@gmail.com",
+    "phone": "444-444-4444",
+    "website": "https://austindang67.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "austindang67", "url": "http://github.com/austindang67" },
+      { "network": "linkedin", "username": "austin-dang", "url": "http://linkedin.com/in/austin-dang" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Development" },
+    { "name": "Web Development" },
+    { "name": "Game Development" },
+
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Meteor", "React", "Bootstrap 5" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Git/GitHub", "IntelliJ IDEA" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2019-08-05",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Linh's Alterations",
+      "position": "Assistant Accountant and Communications",
+      "website": "",
+      "startDate": "2017-08-01",
+      "endDate": "Present",
+      "summary": "Simple accounting and communications",
+      "highlights": [
+        "Maintain, update, and oversee official Linh's Alterations website",
+        "Issue invoices to business partners, calculate payroll, and maintain online presence"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2019",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
